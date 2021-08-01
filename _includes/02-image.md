@@ -1,3 +1,3 @@
 Replace this with an image, like your photo. Ensure you include some alt-text.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-(http://Alanssaiju/markdown-portfolio.com)
+[text](http://Alanssaiju/markdown-portfolio.com)
